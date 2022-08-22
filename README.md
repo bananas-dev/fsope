@@ -146,9 +146,12 @@ If user Richard has 421 tokens for this player, he will get $800 as a bonus for 
 #### 3.1 Football Market
 ##### 3.1.1 Scoring System
 
-During the season, players will be allocated points based on their performances.
+During the season, players will receive points based on their performances. One of the possible versions of scoring system is presented below.
+But we don’t necessarily have to be limited only by sport metrics.
+For instance, it’s easy to include a social criteria like changing dynamics on Twitter or Instagram (followers count increase/decrease).
 
-![Alt text](images/6.png?raw=true "Title")
+
+![Alt text](images/6_1.png?raw=true "Title")
 
 **Clean sheets**
 
@@ -180,7 +183,7 @@ Penalty save by a goalkeeper doesn’t mean he actually saves the penalty. If th
 
 The weekly prize pool of every market distributes progressively. It means 25% of the best assets on every market splitting a reward and the top 1 gets the biggest part of the prize pool.
 
-![Alt text](images/8.png?raw=true "Title")
+![Alt text](images/8_1.png?raw=true "Title")
 
 ##### 3.1.3 The Timing
 
