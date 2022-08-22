@@ -257,7 +257,7 @@ Discord participants will compile a list of the first assets on the first market
 
 There is no time to waste! Join our community right now!
 
-https://discord.gg/GekA4MwE
+https://discord.gg/cyDdWGvAag
 
 ### 8. Glossary
 
